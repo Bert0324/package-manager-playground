@@ -1,0 +1,16 @@
+{
+  "name": "pnpm-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "packageManager": "pnpm@6.15.1",
+  "scripts": {
+    "bootstrap": "pnpm i"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "1.19.0"
+  }
+}

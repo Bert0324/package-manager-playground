@@ -1,0 +1,15 @@
+{
+  "name": "pnpm2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "packageManager": "pnpm@6.15.1",
+  "scripts": {
+    "bootstrap": "pnpm i"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0"
+  }
+}
