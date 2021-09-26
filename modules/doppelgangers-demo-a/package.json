@@ -8,6 +8,6 @@
   "dependencies": {
     "doppelgangers-demo-d": "1.0.0",
     "doppelgangers-demo-c": "1.0.0",
-    "doppelgangers-demo-b": "1.0.0"
+    "doppelgangers-demo-b": "2.0.0"
   }
 }

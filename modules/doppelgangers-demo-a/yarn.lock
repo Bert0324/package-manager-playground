@@ -2,12 +2,12 @@
 # yarn lockfile v1
 
 
-doppelgangers-demo-b@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.npmjs.org/doppelgangers-demo-b/-/doppelgangers-demo-b-1.0.0.tgz#eefc79fcdd24773541218d9a9cf20d4abb88faf0"
-  integrity sha512-eNeLLTTxUbMrpbwwJBeQkiSlRY2LGPJOeyLgAt2RLlR5QOP6uDwQb8D5kANZF6V+v4OBSy2u/V8zR41RMGZyeQ==
+doppelgangers-demo-b@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.npmjs.org/doppelgangers-demo-b/-/doppelgangers-demo-b-2.0.0.tgz#0e16866d7eeac2c7b7f813b54f76d14e0eb6f712"
+  integrity sha512-SPQMqry1CrmlLNAFHg5E2+fGhmjsyLUCIdJqmD0aCEecE7n0dPbyLRi2LWUZcq8OETLU05IfNhmZv16c15DQyg==
   dependencies:
-    doppelgangers-demo-d "3.0.0"
+    doppelgangers-demo-d "2.0.0"
 
 doppelgangers-demo-c@1.0.0:
   version "1.0.0"
@@ -25,8 +25,3 @@ doppelgangers-demo-d@2.0.0:
   version "2.0.0"
   resolved "https://registry.npmjs.org/doppelgangers-demo-d/-/doppelgangers-demo-d-2.0.0.tgz#daa7c87726e52f18904b2574726f37c8e83b5ae3"
   integrity sha512-e4tvFBPhsJvv18xUyBK2c5cyqPNbf6OMT10giaRc2uSUlfXRIwfHBCakANv5eBfJokb62paMlolVRVBV1Sn6iw==
-
-doppelgangers-demo-d@3.0.0:
-  version "3.0.0"
-  resolved "https://registry.npmjs.org/doppelgangers-demo-d/-/doppelgangers-demo-d-3.0.0.tgz#2d4eb64e5310d38c0a82ff6030528c3bc9c13221"
-  integrity sha512-YhBpnCgs9sRqlwrGNS84ZMPtR7SDIcH9cLkRfAAadFqEO+3j9q2fOwS9khLDcXAOj4MOzRbQ7B8OJ9931LIQuw==
