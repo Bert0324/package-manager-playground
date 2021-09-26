@@ -1,0 +1,13 @@
+{
+  "name": "doppelgangers-demo-a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "doppelgangers-demo-d": "1.0.0",
+    "doppelgangers-demo-c": "1.0.0",
+    "doppelgangers-demo-b": "1.0.0"
+  }
+}
