@@ -5,3 +5,19 @@ version = 3
 [[package]]
 name = "cargo"
 version = "0.1.0"
+dependencies = [
+ "cargo_rename_demo 0.1.0",
+ "cargo_rename_demo 0.2.0",
+]
+
+[[package]]
+name = "cargo_rename_demo"
+version = "0.1.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "1f24f7db55fc36d89fc9e719f13b9368627c96c1c69678122c9c850db0250fd0"
+
+[[package]]
+name = "cargo_rename_demo"
+version = "0.2.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "47b4be0349afd2893e623207544792e334ec4e5b9cc520292ac833210fc85752"
