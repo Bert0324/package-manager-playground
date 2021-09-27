@@ -1,2 +1,4 @@
 cargo/target
 modules/cargo_rename_demo/target
+pnpm/node_modules
+pnpm2/node_modules
